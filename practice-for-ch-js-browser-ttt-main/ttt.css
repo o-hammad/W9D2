@@ -1,0 +1,19 @@
+/* Your code here */
+
+ul {
+    display: flex;
+    /* height: 800px;
+    width: 900px; */
+    flex-wrap: wrap;
+}
+
+li {
+    height: 100px;
+    width: 30%;
+    border: 1px solid black;
+    background-color: grey;
+}
+
+li:hover {
+    background-color: yellow;
+}
